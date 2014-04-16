@@ -29,5 +29,8 @@ this is a test for git hub
 more changes
 even more
 
+
+another changes
+
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
